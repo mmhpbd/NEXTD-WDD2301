@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgimg{
+    background-image: url(./flowers-g162d229ad_1920.jpg);
+    height: 900px;
+}
+.bgimg h1{
+    text-align: center;
+    color: #fff;
+    padding-top: 300px;
+    font-size: 72px;
+}
+.pera{
+    display: flex;
+}
+.pera p{
+    text-align: justify;
+    padding-left: 50px;
+}
